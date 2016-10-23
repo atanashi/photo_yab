@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1fb93928-cfdf-42e3-ac86-b6b437dd4b04" name="Yet Another Bike" url="http://yab">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
